@@ -9,6 +9,7 @@ import com.v2ray.ang.util.LogUtil
 import com.v2ray.ang.util.Utils
 import java.net.URI
 
+
 object ShadowsocksFmt : FmtBase() {
     /**
      * Parses a Shadowsocks URI string into a ProfileItem object.
